@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="#c06a3f"/>
+  <text x="32" y="45" font-size="36" text-anchor="middle" fill="#fff8ee"
+        font-family="'Noto Serif SC','Songti SC','STSong','SimSun',serif"
+        font-weight="700">孔</text>
+</svg>
